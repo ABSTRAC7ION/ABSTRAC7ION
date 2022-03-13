@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ABSTRAC7ION
-- 👀 I’m interested in webdevelopment and ux design
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ibrahims.suroor@gmail.com
+- 👋 Hi, I’m Ibrahim Shady AKA @ABSTRAC7ION
+- 👀 I’m interested in webdevelopment
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate with ohter developers
+- 2022 Goals: contribute more to open Source projects
+How to contact me:
+-📧email: ibrahims.suroor@gmail.com
+-twitter: https://twitter.com/Abstraction999
+-instagram: https://www.instagram.com/abstrxctionmusic/
 
 <!---
 ABSTRAC7ION/ABSTRAC7ION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
