@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with ohter developers
 - 2022 Goals: contribute more to open Source projects
-How to contact me:
+<h1>How to contact me:</h1>
 -📧email: ibrahims.suroor@gmail.com
--twitter: https://twitter.com/Abstraction999
--instagram: https://www.instagram.com/abstrxctionmusic/
+
 
 <!---
 ABSTRAC7ION/ABSTRAC7ION is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
