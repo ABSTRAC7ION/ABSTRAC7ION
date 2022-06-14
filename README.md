@@ -7,7 +7,7 @@
 ### Connect with me:
 -email: ibrahims.suroor@gmail.com<br>
 -twitter: https://twitter.com/Abstraction999<br>
--instagram: https://www.instagram.com/abstrxctionmusic/<br>
+-instagram: https://www.instagram.com/abstrac7ion/<br>
 -linkedin: https://www.linkedin.com/in/ibrahim-shady-358747230/ 
 <br />
 
