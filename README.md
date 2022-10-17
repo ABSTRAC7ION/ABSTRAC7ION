@@ -5,10 +5,10 @@
 - 2022 Goals: contribute more to open Source projects
 
 ### Connect with me:
--email: ibrahims.suroor@gmail.com<br>
--twitter: https://twitter.com/Abstraction999<br>
--instagram: https://www.instagram.com/abstrac7ion/<br>
--linkedin: https://www.linkedin.com/in/ibrahim-shady-358747230/ 
+- Email: ibrahims.suroor@gmail.com<br>
+- Twitter: https://twitter.com/Abstraction999<br>
+- Instagram: https://www.instagram.com/abstrac7ion/<br>
+- Linkedin: https://www.linkedin.com/in/ibrahim-shady-358747230/ 
 <br />
 
 
