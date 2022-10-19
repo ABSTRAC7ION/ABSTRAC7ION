@@ -1,5 +1,5 @@
 ### Hi, I’m Ibrahim Shady AKA @ABSTRAC7ION</h1>
-- 👀 I’m interested in Web Development
+- 👀 I'm a Full-Stack Web Developer
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other developers
 - 2022 Goals: contribute more to open Source projects
