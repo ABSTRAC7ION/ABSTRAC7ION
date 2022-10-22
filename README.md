@@ -9,8 +9,6 @@
 - Twitter: https://twitter.com/Abstraction999<br>
 - Instagram: https://www.instagram.com/abstrac7ion/<br>
 - Linkedin: https://www.linkedin.com/in/ibrahim-shady-358747230/ 
-<br />
-
 
 ### Languages and Tools:
 
@@ -28,15 +26,15 @@
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Svelte" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 <img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-         
-
 <br />
 <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABSTRAC7ION)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ABSTRAC7ION&show_icons=true&theme=dark&locale=en" alt="Ibrahim Shady" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABSTRAC7ION&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ibrahim Shady"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABSTRAC7ION&theme=dark" alt="Chinmay Kotkar" /></p>
 
 </details>
 
