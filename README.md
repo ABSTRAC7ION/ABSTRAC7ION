@@ -2,7 +2,7 @@
 - 👀 I'm a Full-Stack Web Developer
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with other developers
-- 2023 Goals: contribute more to open Source projects
+- 2024 Goals: contribute more to open Source projects
 
 ### Connect with me:
 - Email: ibrahims.suroor@gmail.com<br>
