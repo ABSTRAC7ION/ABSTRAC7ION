@@ -25,17 +25,6 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
-<br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ABSTRAC7ION&show_icons=true&theme=dark&locale=en" alt="Ibrahim Shady" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABSTRAC7ION&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ibrahim Shady"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABSTRAC7ION&theme=dark" alt="Chinmay Kotkar" /></p>
-
-</details>
+<img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 
 
