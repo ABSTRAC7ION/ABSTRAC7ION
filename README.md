@@ -6,9 +6,9 @@
 
 ### Connect with me:
 - Email: ibrahims.suroor@gmail.com<br>
-- Twitter: https://twitter.com/Abstraction999<br>
+- Linkedin: https://www.linkedin.com/in/ibrahimshady/ <br>
 - Instagram: https://www.instagram.com/ibrahimshadyy/<br>
-- Linkedin: https://www.linkedin.com/in/ibrahimshady/ 
+
 
 ### Languages and Tools:
 
